@@ -1,6 +1,11 @@
 
 Este repositório contém meu **currículo atualizado** e outras informações relevantes sobre minha trajetória profissional. Se tiver interesse em colaborar ou entrar em contato, fique à vontade! 🚀  
 
+## 📬 Contato  
+📍 **Localização:** Ouro Branco, MG, Brasil  
+📧 **E-mail:** [pvictor36@gmail.com](mailto:pvictor36@gmail.com)  
+🔗 **LinkedIn:** [paulovictords](https://www.linkedin.com/in/paulovictords)  
+
 ---
 
 # 📄 Currículo - Paulo Victor Damasceno e Silva  
@@ -43,12 +48,5 @@ Busco uma oportunidade na área de **Desenvolvimento de Softwares** e **Análise
 
 ## 📥 Download do Currículo  
 🔗 Baixe o currículo completo em PDF [aqui](https://raw.githubusercontent.com/PvPaulinho/Curriculo/main/curriculo_paulo_victor.pdf).  
-
----
-
-## 📬 Contato  
-📍 **Localização:** Ouro Branco, MG, Brasil  
-📧 **E-mail:** [pvictor36@gmail.com](mailto:pvictor36@gmail.com)  
-🔗 **LinkedIn:** [paulovictords](https://www.linkedin.com/in/paulovictords)  
 
 ---
