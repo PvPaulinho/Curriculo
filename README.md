@@ -2,7 +2,6 @@
 Este repositório contém meu **currículo atualizado** e outras informações relevantes sobre minha trajetória profissional. Se tiver interesse em colaborar ou entrar em contato, fique à vontade! 🚀  
 
 ## 📬 Contato  
-📍 **Localização:** Ouro Branco, MG, Brasil  
 📧 **E-mail:** [pvictor36@gmail.com](mailto:pvictor36@gmail.com)  
 🔗 **LinkedIn:** [paulovictords](https://www.linkedin.com/in/paulovictords)  
 
